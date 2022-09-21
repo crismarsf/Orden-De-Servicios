@@ -1,0 +1,12 @@
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+container {
+    text-align: center;
+    align-items: center;
+}
+
+div {
+    border-radius: 20px;
+}
